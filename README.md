@@ -1,2 +1,2 @@
-# motuzuk.github.io
+# motuzyk.github.io
  

@@ -1,0 +1,53 @@
+@media only screen and (min-width: 768px) {
+    .carousel-item{
+        max-height:400px;
+        background-position: center center;
+    }
+}
+.container-fluid{
+    background-color: #3eeef4;
+}
+.col-md-2{
+    margin-right: 70px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-left:10px
+}
+.col-md-9{
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 35px;
+    margin-bottom: 140px;
+}
+.col-md-8{
+    margin-top: 55px;
+    margin-left: 40px;
+    margin-right: 35px;
+    margin-bottom: 140px;
+}
+    .col-md-2{
+        margin-right: 70px;
+        margin-top: 40px;
+        margin-bottom: 70px;
+        margin-left:10px
+    }
+    .col-md-7{
+        margin-top: 55px;
+        margin-left: 40px;
+        margin-right: 35px;
+        margin-bottom: 140px;}
+        .col-md-4{
+            margin-right: 70px;
+            margin-top: 40px;
+            margin-bottom: 70px;
+            margin-left:10px}
+            .col{
+                margin-top: 55px;
+                margin-left: 40px;
+                margin-right: 35px;
+                margin-bottom: 140px;}
+                i{
+                    font-family: fontawesome !important;
+                }
+
+    
